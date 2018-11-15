@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TravelContentManagementEditor",
+    "\\TravelContentManagementEditor\\TravelContentManagementEditor",
+    "\\TravelContentManagementEditor\\TravelContentManagementEditor\\Controllers",
+    "\\TravelContentManagementEditor\\TravelContentManagementEditor\\Models",
+    "\\TravelContentManagementEditor\\TravelContentManagementEditor\\Properties",
+    "\\TravelContentManagementEditor\\TravelContentManagementEditor\\Views",
+    "\\TravelContentManagementEditor\\TravelContentManagementEditor\\Views\\Home",
+    "\\TravelContentManagementEditor\\TravelContentManagementEditor\\wwwroot"
+  ],
+  "SelectedNode": "\\TravelContentManagementEditor\\TravelContentManagementEditor",
+  "PreviewInSolutionExplorer": false
+}

@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ben\\Source\\Repos\\Travel-Content-Management-Editor-Code\\TravelContentManagementEditor\\TravelContentManagementEditor\\TravelContentManagementEditor.csproj",
+      "projectUniqueName": "C:\\Users\\Ben\\source\\repos\\TravelContentManagementEditor\\TravelContentManagementEditor\\TravelContentManagementEditor.csproj",
       "projectName": "TravelContentManagementEditor",
-      "projectPath": "C:\\Users\\Ben\\Source\\Repos\\Travel-Content-Management-Editor-Code\\TravelContentManagementEditor\\TravelContentManagementEditor\\TravelContentManagementEditor.csproj",
+      "projectPath": "C:\\Users\\Ben\\source\\repos\\TravelContentManagementEditor\\TravelContentManagementEditor\\TravelContentManagementEditor.csproj",
       "packagesPath": "C:\\Users\\Ben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ben\\Source\\Repos\\Travel-Content-Management-Editor-Code\\TravelContentManagementEditor\\TravelContentManagementEditor\\obj\\",
+      "outputPath": "C:\\Users\\Ben\\source\\repos\\TravelContentManagementEditor\\TravelContentManagementEditor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
