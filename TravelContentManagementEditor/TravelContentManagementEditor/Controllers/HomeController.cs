@@ -15,22 +15,23 @@ namespace TravelContentManagementEditor.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Tours()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Tours";
 
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult Events()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Events";
 
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Places()
         {
+            ViewData["Message"] = "Places";
             return View();
         }
 
